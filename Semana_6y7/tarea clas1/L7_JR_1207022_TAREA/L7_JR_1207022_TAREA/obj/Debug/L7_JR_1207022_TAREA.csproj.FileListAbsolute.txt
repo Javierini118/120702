@@ -1,0 +1,8 @@
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\semana 7\L7_JR_1207022_TAREA\L7_JR_1207022_TAREA\bin\Debug\L7_JR_1207022_TAREA.exe.config
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\semana 7\L7_JR_1207022_TAREA\L7_JR_1207022_TAREA\bin\Debug\L7_JR_1207022_TAREA.exe
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\semana 7\L7_JR_1207022_TAREA\L7_JR_1207022_TAREA\bin\Debug\L7_JR_1207022_TAREA.pdb
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\semana 7\L7_JR_1207022_TAREA\L7_JR_1207022_TAREA\obj\Debug\L7_JR_1207022_TAREA.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\semana 7\L7_JR_1207022_TAREA\L7_JR_1207022_TAREA\obj\Debug\L7_JR_1207022_TAREA.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\semana 7\L7_JR_1207022_TAREA\L7_JR_1207022_TAREA\obj\Debug\L7_JR_1207022_TAREA.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\semana 7\L7_JR_1207022_TAREA\L7_JR_1207022_TAREA\obj\Debug\L7_JR_1207022_TAREA.exe
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\semana 7\L7_JR_1207022_TAREA\L7_JR_1207022_TAREA\obj\Debug\L7_JR_1207022_TAREA.pdb
