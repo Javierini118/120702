@@ -1,0 +1,112 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace l5_Ejercicio
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            bool Validacion = true; 
+            
+            while(Validacion)
+            {
+                Console.WriteLine("----------------------------------------------------------------------------");
+                Console.WriteLine("Bienvenido a tu calculadora virtual por favor ingrese la opcion que desee realizar");
+                Console.WriteLine("1) suma");
+                Console.WriteLine("2) resta");
+                Console.WriteLine("3) multiplicacion");
+                Console.WriteLine("4) division");
+                Console.WriteLine("5) salir");
+                Console.WriteLine("----------------------------------------------------------------------------");
+                double Numero = Convert.ToInt32(Console.ReadLine());
+
+                try
+                {
+                    Numero = Convert.ToInt32(Console.ReadLine());   
+                    
+                }
+                catch
+                {
+                    Console.WriteLine("Ingrese un numero bobi");
+                    Console.ReadLine();
+                    Console.Clear();
+                }
+
+                switch(Numero)
+                {
+                    case 1:
+                       
+                        Console.WriteLine("----------------------------------------------------------------------------");
+                        Console.WriteLine("Bienvenido a tu calculadora virtual Ingresaste la opcion suma por favor ingresa un numero");
+                        int numero1 = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("ingrese su segundo numero");
+                        int numero2 = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("---------------------------------------------------------------------------");
+                        int sumaFinal = numero1 + numero2; 
+                        Console.WriteLine("El resultado de tu suma es de " + numero1+ "+" + numero2+ "="+ sumaFinal);
+                        Console.ReadKey();
+
+                        break;
+
+                    case 2:
+
+                        Console.WriteLine("----------------------------------------------------------------------------");
+                        Console.WriteLine("Bienvenido a tu calculadora virtual Ingresaste la opcion resta por favor ingresa un numero");
+                        int numeroResta1 = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("ingrese su segundo numero");
+                        int numeroResta2 = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("---------------------------------------------------------------------------");
+                        int RestaFinal = numeroResta1 - numeroResta2;
+                        Console.WriteLine("El resultado de tu resta es de " + numeroResta1 + "-" + numeroResta2 + "=" + RestaFinal);
+                        Console.ReadKey();
+                        break;
+
+                    case 3:
+
+                        Console.WriteLine("----------------------------------------------------------------------------");
+                        Console.WriteLine("Bienvenido a tu calculadora virtual Ingresaste la opcion multipliacion por favor ingresa un numero");
+                        int numeroMultipliacion1 = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("ingrese su segundo numero");
+                        int numeroMultiplicacion2 = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("---------------------------------------------------------------------------");
+                        int MultipliacionFinal = numeroMultipliacion1 * numeroMultiplicacion2;
+                        Console.WriteLine("El resultado de tu Multiplicacion  es de " + numeroMultipliacion1 + "*" + numeroMultiplicacion2 + "=" + MultipliacionFinal);
+                        Console.ReadKey();
+                        break;
+
+                    case 4:
+
+                        Console.WriteLine("----------------------------------------------------------------------------");
+                        Console.WriteLine("Bienvenido a tu calculadora virtual Ingresaste la opcion division por favor ingresa un numero");
+                        int numeroDivision1 = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("ingrese su segundo numero");
+                        int numeroDisivion2 = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("---------------------------------------------------------------------------");
+                        int Divisionfinal = numeroDivision1 / numeroDisivion2;
+                        Console.WriteLine("El resultado de tu Division es de " + numeroDivision1 + "/" + numeroDisivion2 + "=" + Divisionfinal);
+                        Console.ReadKey();
+                        break;
+
+                    case 5:
+
+                        Console.WriteLine("Gracias por preferirnos, esperamos que vuelva pronto");
+                        Console.ReadLine();
+
+                        Validacion = false; 
+
+                        break;
+
+
+                }
+
+
+            }
+
+            
+        }
+    }
+}
