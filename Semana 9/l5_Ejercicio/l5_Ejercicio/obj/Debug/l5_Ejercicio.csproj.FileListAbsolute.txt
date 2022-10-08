@@ -1,8 +1,0 @@
-C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\Semana 9\l5_Ejercicio\l5_Ejercicio\bin\Debug\l5_Ejercicio.exe.config
-C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\Semana 9\l5_Ejercicio\l5_Ejercicio\bin\Debug\l5_Ejercicio.exe
-C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\Semana 9\l5_Ejercicio\l5_Ejercicio\bin\Debug\l5_Ejercicio.pdb
-C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\Semana 9\l5_Ejercicio\l5_Ejercicio\obj\Debug\l5_Ejercicio.csproj.AssemblyReference.cache
-C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\Semana 9\l5_Ejercicio\l5_Ejercicio\obj\Debug\l5_Ejercicio.csproj.SuggestedBindingRedirects.cache
-C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\Semana 9\l5_Ejercicio\l5_Ejercicio\obj\Debug\l5_Ejercicio.csproj.CoreCompileInputs.cache
-C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\Semana 9\l5_Ejercicio\l5_Ejercicio\obj\Debug\l5_Ejercicio.exe
-C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación (Laboratorio)\Semana 9\l5_Ejercicio\l5_Ejercicio\obj\Debug\l5_Ejercicio.pdb
