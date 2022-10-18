@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace l5_Ejercicio
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Ingrese una contraseña");
+            string contraseña = Console.ReadLine();
+            string contraseña2= "";
+
+            do while (contraseña.Equals contraseña2)
+            {
+                Console.Clear();
+                Console.WriteLine(" Su contraseña es correcta ");
+
+            }
+
+            Console.ReadKey();
+        }
+    }
+}

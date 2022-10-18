@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace l5_Ejercicio
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(" Bienvenido a su grupo de ciclos while ");
+
+            bool condicion = true;
+
+            int numero = 0;
+
+            while (condicion)
+            {
+                Console.WriteLine(numero);
+
+                numero++;
+            }
+           
+        }
+    }
+}

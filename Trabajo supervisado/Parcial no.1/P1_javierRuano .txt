@@ -1,0 +1,144 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace P1_L5_JavierRuano___
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double Ingresos = 0;
+            double egresos = 0;
+            bool condicion = true;
+          
+
+
+
+            Console.WriteLine("------------------------------------------------------------------------");
+            Console.WriteLine("Hola bienvenido a tu aplicacion de finanzas, por favor ingrese su nombre");
+            string nombre = Console.ReadLine();
+            Console.Clear();
+
+
+
+
+            while (condicion)
+            {
+                Console.WriteLine("------------------------------------------------------------------------");
+                Console.WriteLine("Bienvenido " + nombre + " por faovr ingresa la opción que deseas realizar");
+
+                Console.WriteLine("1) Ingresar sus ingresos");
+                Console.WriteLine("2) Ingresar sus egresos");
+                Console.WriteLine("3) Resultado");
+                Console.WriteLine("4) salir");
+                Console.WriteLine("------------------------------------------------------------------------");
+
+                int opcion = Convert.ToInt32(Console.ReadLine());
+
+                switch (opcion)
+                {
+                    case 1:
+
+                        Console.Clear();
+                        Console.WriteLine("------------------------------------------------------------------------");
+                        Console.WriteLine("Bienvenido a tu opcion de ingresos por favor ingresar tu cantidad de ingresos");
+                        Ingresos = Convert.ToDouble(Console.ReadLine());
+                        Console.WriteLine("------------------------------------------------------------------------");
+
+                        Console.WriteLine("Deseas ingresar otro ingreso ?  |si| |no| ");
+                        string Ingresostexto = Console.ReadLine();
+
+                        double numero2 = 0;
+                        double numeroIngresosFinal = Ingresos + numero2;
+
+                        if (Ingresostexto == "si")
+                        {
+                            Console.WriteLine("Ingrese su siguiente numero");
+                            numero2 = Convert.ToDouble(Console.ReadLine());
+
+
+
+
+                            Console.WriteLine("su cantida de ingresos es de " + numeroIngresosFinal);
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
+                        else
+                        {
+                            numeroIngresosFinal = Ingresos;
+                            Console.WriteLine("sus ingresos totales son de " + numeroIngresosFinal);
+                        }
+                        break;
+
+
+
+
+
+                    case 2:
+
+                        Console.Clear();
+                        Console.WriteLine("------------------------------------------------------------------------");
+                        Console.WriteLine("Bienvenido a tu opcion de egresos por favor ingresar tu cantidad de egresos");
+                        egresos = Convert.ToDouble(Console.ReadLine());
+                        Console.WriteLine("------------------------------------------------------------------------");
+
+                        Console.WriteLine("Deseas ingresar otro egreso ?  |si| |no| ");
+                        Ingresostexto = Console.ReadLine();
+
+                        double numero3 = 0;
+                        double numeroEgresosFinal = egresos + numero3;
+
+                        if (Ingresostexto == "si")
+                        {
+                            Console.WriteLine("Ingrese su siguiente numero");
+                            numero3 = Convert.ToDouble(Console.ReadLine());
+
+
+
+
+                            Console.WriteLine("su cantida de ingresos es de " + numeroEgresosFinal);
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+                        }
+                        else
+                        {
+                            numeroEgresosFinal = egresos;
+                            Console.WriteLine("sus egresos  totales son de " + numeroEgresosFinal);
+                        }
+                        break;
+
+                    case 3:
+
+                        Console.Clear();
+                        Console.WriteLine("------------------------------------------------------------------------");
+                        Console.WriteLine("Bienvenido " + nombre + " a tu opcion de resultados ");
+
+
+                        double IngresoTotalFinal = numeroIngresosFinal - numeroEgresosFinal;
+                        Console.WriteLine(+nombre "su cantidad total es de"+ IngresoTotalFinal);
+                       
+
+                        break;
+                
+               
+
+                  case 4:
+
+                        condicion = false;
+                        break;
+
+                }
+              
+            }
+
+
+
+            Console.ReadKey();
+        }
+    }
+}
