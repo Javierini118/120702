@@ -1,0 +1,3 @@
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\L9_JAVIERRUANO_1207022\L9_JAVIERRUANO_1207022\obj\Debug\L9_JAVIERRUANO_1207022.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\L9_JAVIERRUANO_1207022\L9_JAVIERRUANO_1207022\obj\Debug\L9_JAVIERRUANO_1207022.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\L9_JAVIERRUANO_1207022\L9_JAVIERRUANO_1207022\obj\Debug\L9_JAVIERRUANO_1207022.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\semana 7\Ejercicio_Progra\Ejercicio_Progra\bin\Debug\Ejercicio_Progra.exe.config
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\semana 7\Ejercicio_Progra\Ejercicio_Progra\bin\Debug\Ejercicio_Progra.exe
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\semana 7\Ejercicio_Progra\Ejercicio_Progra\bin\Debug\Ejercicio_Progra.pdb
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\semana 7\Ejercicio_Progra\Ejercicio_Progra\obj\Debug\Ejercicio_Progra.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\semana 7\Ejercicio_Progra\Ejercicio_Progra\obj\Debug\Ejercicio_Progra.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\semana 7\Ejercicio_Progra\Ejercicio_Progra\obj\Debug\Ejercicio_Progra.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\semana 7\Ejercicio_Progra\Ejercicio_Progra\obj\Debug\Ejercicio_Progra.exe
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\semana 7\Ejercicio_Progra\Ejercicio_Progra\obj\Debug\Ejercicio_Progra.pdb

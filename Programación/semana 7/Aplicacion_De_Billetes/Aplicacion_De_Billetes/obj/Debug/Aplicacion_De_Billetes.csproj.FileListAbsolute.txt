@@ -1,0 +1,8 @@
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Tutorias\Aplicacion_De_Billetes\Aplicacion_De_Billetes\bin\Debug\Aplicacion_De_Billetes.exe.config
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Tutorias\Aplicacion_De_Billetes\Aplicacion_De_Billetes\bin\Debug\Aplicacion_De_Billetes.exe
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Tutorias\Aplicacion_De_Billetes\Aplicacion_De_Billetes\bin\Debug\Aplicacion_De_Billetes.pdb
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Tutorias\Aplicacion_De_Billetes\Aplicacion_De_Billetes\obj\Debug\Aplicacion_De_Billetes.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Tutorias\Aplicacion_De_Billetes\Aplicacion_De_Billetes\obj\Debug\Aplicacion_De_Billetes.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Tutorias\Aplicacion_De_Billetes\Aplicacion_De_Billetes\obj\Debug\Aplicacion_De_Billetes.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Tutorias\Aplicacion_De_Billetes\Aplicacion_De_Billetes\obj\Debug\Aplicacion_De_Billetes.exe
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Tutorias\Aplicacion_De_Billetes\Aplicacion_De_Billetes\obj\Debug\Aplicacion_De_Billetes.pdb
