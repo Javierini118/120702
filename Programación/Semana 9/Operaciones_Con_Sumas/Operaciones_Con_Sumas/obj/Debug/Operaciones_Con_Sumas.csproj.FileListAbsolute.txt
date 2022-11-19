@@ -1,0 +1,8 @@
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\Operaciones_Con_Sumas\Operaciones_Con_Sumas\bin\Debug\Operaciones_Con_Sumas.exe.config
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\Operaciones_Con_Sumas\Operaciones_Con_Sumas\bin\Debug\Operaciones_Con_Sumas.exe
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\Operaciones_Con_Sumas\Operaciones_Con_Sumas\bin\Debug\Operaciones_Con_Sumas.pdb
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\Operaciones_Con_Sumas\Operaciones_Con_Sumas\obj\Debug\Operaciones_Con_Sumas.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\Operaciones_Con_Sumas\Operaciones_Con_Sumas\obj\Debug\Operaciones_Con_Sumas.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\Operaciones_Con_Sumas\Operaciones_Con_Sumas\obj\Debug\Operaciones_Con_Sumas.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\Operaciones_Con_Sumas\Operaciones_Con_Sumas\obj\Debug\Operaciones_Con_Sumas.exe
+C:\Users\javie\OneDrive\Escritorio\Mi PC\Universidad\Segundo cliclo estundiantil\Programación\Semana 9\Operaciones_Con_Sumas\Operaciones_Con_Sumas\obj\Debug\Operaciones_Con_Sumas.pdb

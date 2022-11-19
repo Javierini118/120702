@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Bienvenido a la aplicacion de suma de variables el numero que vamoos a elevar a la potencia es de 2 a la 4 ");
+
+            Console.WriteLine("Para poder utilizar la siguiente potencia debemos de realizar los siguientes paso dentro de un ciclo for");
+
+            int Suma1, suma2, suma3, sumaFinal;
+
+
+            Suma1 = 2;
+            suma2 = 4;
+
+            suma3 = Suma1 * suma2;
+
+            sumaFinal=0;
+
+            Console.WriteLine("Su cantidad de veces para realizar la potencia es de "+ suma3);
+
+            for(int i =0 ; i < suma3; i++)
+            {
+                sumaFinal = suma2 + suma2; 
+            }
+
+            Console.WriteLine(" sus valores finales son de "+ sumaFinal); 
+            Console.ReadKey(); 
+        }
+    }
+}
+
+
